@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/CTF_Renault.unity
+  isLoaded: 1
+  isActive: 1
